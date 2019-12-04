@@ -1,0 +1,4 @@
+This algorithm can detect any SARIMA model coefficients.
+Project performed in an academic project.
+Here, it is performed on 'departures' dataset from package fpp2.
+feel free to send me your feedbacks and propositions.
