@@ -1,4 +1,6 @@
-This algorithm can detect any SARIMA model coefficients.
-Project performed in an academic project.
+This algorithm can detect any SARIMA model coefficients based on statistical tests.
+Project performed as part of an academic project in time series.
 Here, it is performed on 'departures' dataset from package fpp2.
 feel free to send me your feedbacks and propositions.
+
+code in sarima.R in R statistical language and the final result in PDF departures_report.pdf.
